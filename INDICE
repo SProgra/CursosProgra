@@ -1,0 +1,1535 @@
+Index
+    A.
+
+        1 Conociendo adobe flash professional	 
+            1.1 Presentación y objetivos del curso	
+            1.2 Requerimientos técnicos para adobe flash	
+            1.3 Ejecución de adobe flash	
+            1.4 Utilización de la página de inicio	
+            1.5 El entorno de trabajo	
+            1.6 Configurar las propiedades de una película nueva	
+            1.7 Cargar y previsualizar una película guardada	
+            1.8 Guardar una película	
+            1.9 Creación de proyectos	
+            1.10 Plantillas	
+            1.11 Panel de herramientas	
+            1.12 El escenario y su visualización	
+            1.13 Ayudas de dibujo	
+            1.14 Trabajo con paneles	
+            1.15 Línea de tiempo	
+            1.16 Explorador de películas	
+            1.17 Salir de adobe flash	
+            1.18 Práctica - nuestra primera animación	
+            1.19 Cuestionario: conociendo adobe flash professional	
+    
+        2 Técnicas de dibujo	
+            2.1 Tecnología vectorial y bitmap	
+            2.2 Importación desde otras aplicaciones	
+            2.3 Convertir imágenes bitmap en gráficos vectoriales	
+            2.4 Dibujo de formas simples	
+            2.5 Dibujo de polígonos y estrellas	
+            2.6 Dibujo de formas libres	
+            2.7 Configuración y utilización de la herramienta pluma	
+            2.8 Dibujo con la herramienta pincel	
+            2.9 Aplicación de patrones con el pincel rociador	
+            2.10 Dibujo de patrones con la herramienta deco	
+            2.11 Borrado de objetos en flash	
+            2.12 Contornos y rellenos	
+            2.13 Trabajo con rellenos sólidos y degradados	
+            2.14 Modificación de líneas y contornos	
+            2.15 La herramienta bote de tinta	
+            2.16 La herramienta cubo de pintura	
+            2.17 Bloqueo de un degradado o de un mapa de bits	
+            2.18 Herramientas de texto en flash	
+            2.19 Creación de campos de texto dinámicos	
+            2.20 Práctica - aprendiendo a dibujar en adobe flash	
+            2.21 Práctica - copiar dibujos	
+            2.22 Cuestionario: técnicas de dibujo	
+    
+        3 Selección y manipulación de objetos	
+            3.1 Introducción a la selección de objetos	
+            3.2 Modelo de dibujo de flash	
+            3.3 Selección y transformación de objetos con la flecha	
+            3.4 Uso de la herramienta lazo	
+            3.5 Agrupación de objetos	
+            3.6 Objetos no agrupados	
+            3.7 Mover y copiar objetos en flash	
+            3.8 Escalar objetos en flash	
+            3.9 Transformación libre de objetos	
+            3.10 Distorsión de objetos	
+            3.11 Envoltura de objetos	
+            3.12 Rotar y sesgar objetos en flash	
+            3.13 Gráficos 3d en flash	
+            3.14 Alineación de objetos	
+            3.15 Transformación de rellenos	
+            3.16 Práctica - macromedia shockzone	
+            3.17 Cuestionario: selección y manipulación de objetos	
+    
+        4 Trabajar con frames y capas en flash	
+            4.1 Información general sobre los fotogramas	
+            4.2 Selección de fotogramas en la línea de tiempo	
+            4.3 Creación de etiquetas y comentarios	
+            4.4 Utilización de anclajes	
+            4.5 Información general sobre las capas	
+            4.6 Creación de capas	
+            4.7 Creación de carpetas de capas	
+            4.8 Capas guías	
+            4.9 Capas máscara	
+            4.10 Práctica - creación de menús animados	
+            4.11 Cuestionario: trabajar con frames y capas en flash	
+    
+        5 Biblioteca - símbolos e instancias	
+            5.1 Uso de símbolos e instancias	
+            5.2 La biblioteca de símbolos de flash	
+            5.3 Creación de símbolos	
+            5.4 Creación de botones	
+            5.5 Intercambiar símbolos	
+            5.6 Trabajar con carpetas en la ventana biblioteca	
+            5.7 Eliminación de elementos de una biblioteca	
+            5.8 Cambiar las propiedades de las instancias	
+            5.9 Práctica - visibilidad de un clip de película	
+            5.10 Cuestionario: biblioteca: símbolos e instancias	
+    
+        6 Animación	
+            6.1 Uso de escenas en adobe flash	
+            6.2 Control de la velocidad en las películas	
+            6.3 Animación de fotograma a fotograma	
+            6.4 Extensión de imágenes de fondo en una animación	
+            6.5 Interpolaciones de movimiento	
+            6.6 Interpolación clásica de movimiento	
+            6.7 Interpolación de movimiento a lo largo de un recorrido	
+            6.8 Interpolación de formas	
+            6.9 Cinemática inversa	
+            6.10 Edición de animaciones en flash	
+            6.11 Práctica - chimaira intro	
+            6.12 Práctica - chimaira menú	
+            6.13 Cuestionario: animación	
+    
+        7 Sonidos	
+            7.1 Sonidos y flash	
+            7.2 Importación de sonidos	
+            7.3 Añadir sonidos a una película de flash	
+            7.4 Añadir efectos de sonido a los botones	
+            7.5 Edición de sonidos	
+            7.6 Compresión de sonidos	
+            7.7 Control de sonidos mediante comportamientos	
+            7.8 Práctica - creación de bandas sonoras dinámicas	
+            7.9 Cuestionario: sonidos	
+    
+        8 Vídeos	
+            8.1 Integrar vídeo en flash	
+            8.2 Asistente de importación de vídeo	
+            8.3 Componente flvplayback	
+            8.4 Incorporación de un archivo de vídeo en un archivo de flash	
+            8.5 Trabajo con puntos de referencia de vídeo	
+    
+        9 Interactividad básica con actionscript 2	
+            9.1 Creación de películas interactivas	
+            9.2 Acciones en fotogramas	
+            9.3 Acciones en objetos	
+            9.4 Modificación de acciones	
+            9.5 Saltar a un fotograma o escena	
+            9.6 Reproducir y parar una película	
+            9.7 Ajustar la calidad de visualización de una película	
+            9.8 Detener todos los sonidos de una película	
+            9.9 Llamar a una url desde flash	
+            9.10 Controlar la ventana del reproductor de flash	
+            9.11 Cargar un swf de flash dentro de una película	
+            9.12 Descargar una película de flash	
+            9.13 Precarga básica de una película	
+            9.14 Impresión de los fotogramas de una película	
+            9.15 Programación flash	
+            9.16 Práctica - uso del panel acciones	
+            9.17 Práctica - siguiendo el recorrido del ratón	
+            9.18 Práctica - creación de una clave para múltiples usuarios	
+            9.19 Cuestionario: interactividad basica con actionscript 2.0	
+    
+        10 Interactividad avanzada con actionscript 2	
+            10.1 Arrastrar y soltar objetos sobre el escenario de flash	
+            10.2 Creación de un cursor personalizado	
+            10.3 Captura de acciones de teclado con flash	
+            10.4 Valores de códigos de teclado para flash	
+            10.5 Creación de campos de texto en scroll	
+            10.6 Configuración de valores de color en una película	
+            10.7 Creación de controles de sonido	
+            10.8 Práctica - creación de una calculadora	
+            10.9 Práctica - creación de un juego de naves espaciales	
+            10.10 Cuestionario: interactividad avanzada con actionscript 2.0	
+    
+        11 Introducción a actionscript 3	
+            11.1 Actionscript	
+            11.2 Ubicación del código actionscript	
+            11.3 Sprites	
+            11.4 Lista de visualización	
+            11.5 Gestión de eventos	
+            11.6 Propiedades de objetos	
+            11.7 Carga de datos externos	
+            11.8 Práctica - sitio de muestras de animación	
+            11.9 Práctica - integrar google maps en flash con actionscript	
+    
+        12 Publicación y exportación de películas	
+            12.1 Publicación de películas de flash	
+            12.2 Configuración de publicaciones swf	
+            12.3 Configuración de publicaciones html	
+            12.4 Visualización previa de publicaciones y configuraciones	
+            12.5 Exportación de películas e imágenes	
+            12.6 Cuestionario: publicacion y exportacion de películas	
+            12.7 Cuestionario: cuestionario final	
+    B.
+        1 Conociendo adobe dreamweaver cs5	
+            1.1 Introducción a adobe dreamweaver	
+            1.2 Novedades de dreamweaver cs5	
+            1.3 Requerimientos técnicos	
+            1.4 Editar páginas web	
+            1.5 Cómo tener una página en internet	
+            1.6 Ejecución de adobe dreamweaver	
+            1.7 Entorno de trabajo	
+            1.8 El panel insertar	
+            1.9 Ventana de documento	
+            1.10 Barra de herramientas documento	
+            1.11 Panel propiedades	
+            1.12 Edición de métodos abreviados de teclado	
+            1.13 Panel activos	
+            1.14 Panel historial	
+            1.15 Práctica - mi primera página	
+            1.16 Práctica - diseño web parte i	
+            1.17 Cuestionario: conociendo adobe dreamweaver cs5	
+    
+        2 Creación de sitios y páginas web	
+            2.1 Planificación de un sitio web	
+            2.2 Configurar un sitio web	
+            2.3 Editar un sitio web existente	
+            2.4 Sistema de protección	
+            2.5 Panel archivos	
+            2.6 Configurar las preferencias del panel archivos	
+            2.7 Crear abrir y guardar documentos	
+            2.8 Configurar las propiedades del documento	
+            2.9 Guías visuales	
+            2.10 Insertar palabras clave y descripciones	
+            2.11 Previsualizar un documento	
+            2.12 Práctica - diseño web parte ii	
+            2.13 Cuestionario: creación de sitios y páginas web	
+    
+        3 Trabajo con texto	
+            3.1 Creación y colocación de textos	
+            3.2 Encabezados y párrafos	
+            3.3 Asignar fuentes a un texto	
+            3.4 Editar la lista de fuentes de dreamweaver	
+            3.5 Cambiar el color del texto	
+            3.6 Alineación del texto	
+            3.7 Sangrías	
+            3.8 Crear listas	
+            3.9 Corrección ortográfica	
+            3.10 Insertar fechas en un documento	
+            3.11 Insertar caracteres especiales	
+            3.12 Insertar reglas horizontales	
+            3.13 Creación de estilos css	
+            3.14 Buscar y reemplazar texto	
+            3.15 Cuestionario: trabajo con texto	
+    
+        4 Estilos css	
+            4.1 Hojas de estilos en cascada	
+            4.2 Estilos css	
+            4.3 Crear un estilo personalizado	
+            4.4 Definir un estilo css	
+            4.5 Aplicar un estilo	
+            4.6 Exportar estilos	
+            4.7 Vincular una hoja de estilos	
+    
+        5 Imágenes	
+            5.1 Formatos de gráficos web	
+            5.2 Colocación de imágenes	
+            5.3 Editar imágenes	
+            5.4 Cambiar el tamaño de las imágenes	
+            5.5 Uso de la etiqueta alt	
+            5.6 Alineación de imágenes con texto	
+            5.7 Insertar bordes	
+            5.8 Insertar imágenes de sustitución	
+            5.9 Práctica - diseño web parte iii	
+            5.10 Cuestionario: imágenes	
+    
+        6 Creación de marcos	
+            6.1 Utilización de marcos	
+            6.2 Creación de marcos y conjuntos de marcos	
+            6.3 Crear un conjunto de marcos anidado	
+            6.4 Modificar el tamaño de los marcos	
+            6.5 Modificar los bordes de un conjunto de marcos	
+            6.6 Utilización del panel marcos	
+            6.7 Abrir una página web en un marco	
+            6.8 Añadir barras de desplazamiento	
+            6.9 Destinar la información de un vínculo	
+            6.10 Guardar archivos de marcos y conjuntos de marcos	
+            6.11 Práctica - diseño web parte iv	
+            6.12 Cuestionario: creación de marcos	
+    
+        7 Creación de tablas	
+            7.1 Utilización de tablas	
+            7.2 Creación de tablas en la ventana de documento	
+            7.3 Modificación de tablas	
+            7.4 Selección de elementos de una tabla	
+            7.5 Alineación del contenido de una celda	
+            7.6 Dividir y combinar celdas	
+            7.7 Anidar tablas	
+            7.8 Ordenar tablas	
+            7.9 Práctica - diseño web parte v	
+            7.10 Cuestionario: creación de tablas	
+    
+        8 Trabajar con capas	
+            8.1 Aparición de las capas	
+            8.2 Creación de capas	
+            8.3 Configurar las características por defecto de una capa	
+            8.4 Panel elementos pa	
+            8.5 Modificación de capas	
+            8.6 Ajustar la alineación de las capas	
+            8.7 Creación de una capa de carga	
+            8.8 Cuestionario: trabajar con capas	
+    
+        9 Vínculos web	
+            9.1 Localización y rutas de documentos	
+            9.2 Crear vínculos	
+            9.3 Crear vínculos desde el panel propiedades	
+            9.4 Navegar usando anclajes	
+            9.5 Selección del destino de los vínculos	
+            9.6 Crear un vínculo de correo electrónico	
+            9.7 Creación de mapas de imagen	
+            9.8 Creación de menús de salto	
+                9.9 Comprobación de vínculos rotos	
+            9.10 Práctica - diseño web parte vi	
+            9.11 Cuestionario: vínculos web	
+    
+        10 Formularios interactivos	
+            10.1 Funcionamiento de los formularios	
+            10.2 Objetos de formulario	
+        10.3 Insertar un formulario en dreamweaver	
+            10.4 Creación de campos de texto	
+            10.5 Creación de campos de texto ocultos	
+            10.6 Insertar casillas de verificación	
+            10.7 Grupo de casillas de verificación	
+            10.8 Insertar botones de opción	
+            10.9 Creación de menús desplegables	
+            10.10 Creación de listas	
+            10.11 Creación de botones para activar el formulario	
+            10.12 Insertar campo de archivo	
+            10.13 Práctica - diseño web parte vii	
+            10.14 Cuestionario: formularios interactivos	
+    
+        11 Biblioteca	
+            11.1 Almacenamiento de elementos en dreamweaver	
+            11.2 La paleta activos	
+            11.3 Visualizar los elementos de un documento	
+            11.4 Insertar un elemento de biblioteca	
+            11.5 Modificar elementos de biblioteca	
+            11.6 Cuestionario: biblioteca	
+    
+        12 Plantillas	
+            12.1 Creación de plantillas	
+            12.2 Configurar las propiedades de una plantilla	
+            12.3 Definición de regiones editables en una plantilla	
+            12.4 Bloquear una región editable	
+            12.5 Creación de documentos basados en plantillas	
+            12.6 Práctica - diseño web parte viii	
+            12.7 Cuestionario: plantillas	
+    
+        13 Elementos multimedia	
+            13.1 Vídeo en la red	
+            13.2 Vincular vídeos en dreamweaver	
+            13.3 Reproducción de vídeos on line	
+            13.4 Atributos de quicktime	
+            13.5 Insertar realvídeo en un documento html	
+            13.6 Inserción de archivos flv	
+            13.7 Películas flash	
+            13.8 Sonido	
+            13.9 Práctica - diseño web parte ix	
+            13.10 Cuestionario: elementos multimedia	
+    
+        14 Comportamientos	
+            14.1 Panel comportamientos	
+            14.2 Añadir un comportamiento	
+            14.3 Llamar javascript	
+            14.4 Cambiar propiedad	
+            14.5 Comprobar plug-in	
+            14.6 Mensaje emergente	
+            14.7 Arrastrar capa	
+            14.8 Ir a url	
+            14.9 Abrir ventana del navegador	
+            14.10 Carga previa de imágenes	
+            14.11 Mostrar ocultar elementos	
+            14.12 Intercambiar imagen	
+            14.13 Validar formulario	
+            14.14 Práctica - diseño web parte x	
+            14.15 Cuestionario: comportamientos	
+
+        15 Diseño web con spry	
+            15.1 Los widgets de spry	
+            15.2 Widget de acordeón	
+            15.3 Widget de barra de menús	
+            15.4 Widget de paneles que pueden contraerse	
+            15.5 Widget de paneles en fichas	
+            15.6 Widget de grupo de opciones	
+            15.7 Widget de campo de texto	
+            15.8 Widget de área de texto	
+            15.9 Widget de selección	
+            15.10 Widget de contraseña de validación	
+            15.11 Efectos de spry	
+            15.12 Cuestionario: diseño web con spry	
+    
+        16 Comando de teclado	
+            16.1 Teclas de función de dreamweaver	
+            16.2 Cuestionario: cuestionario final
+    C.
+    
+        1 Conocer photoshop	
+            1.1 Conceptos	
+            1.2 Requerimientos mínimos del sistema	
+            1.3 Entrar en photoshop	
+            1.4 Espacio de trabajo	
+            1.5 Preferencias	
+            1.6 Salir del programa	
+            1.7 Práctica - entrar y salir de photoshop	
+            1.8 Cuestionario: conocer photoshop	
+    
+        2 Adquisición de imágenes y sus características	
+            2.1 Fundamentos de la imagen ráster	
+            2.2 Qué es la resolución	
+            2.3 Resolución del monitor	
+            2.4 Resolución de entrada y salida	
+            2.5 Profundidad del color	
+            2.6 Tamaño de la imagen	
+            2.7 Crear un archivo nuevo	
+            2.8 Abrir una imagen	
+            2.9 Importar una imagen	
+            2.10 Práctica - creación de un archivo nuevo	
+            2.11 Cuestionario: adquisición de imágenes y sus características	
+    
+        3 El formato psd y gestiones con archivos	
+            3.1 El formato psd	
+            3.2 Guardar un archivo	
+            3.3 Guardar como	
+            3.4 Duplicar una imagen	
+            3.5 Cuestionario: el formato .psd y gestiones con archivos	
+    
+        4 Imagen y lienzo	
+            4.1 Tamaño de imagen	
+            4.2 Herramienta recortar	
+            4.3 Herramienta recorte con perspectiva	
+            4.4 Tamaño de lienzo	
+            4.5 Rotar el lienzo	
+            4.6 Practica - adaptar una imagen para fondo de escritorio	
+            4.7 Cuestionario: imagen y lienzo	
+    
+        5 La visualización en photoshop	
+            5.1 Modos de visualización utilizando el menú vista	
+            5.2 Utilizando la herramienta zoom	
+            5.3 Opciones de la herramienta zoom	
+            5.4 Utilizando la herramienta mano	
+            5.5 Navegando por la imagen	
+            5.6 Modos de pantalla	
+            5.7 Organizar las ventanas de las imágenes	
+            5.8 Cuestionario: la visualización en photoshop	
+    
+        6 Crear selecciones	
+            6.1 Concepto de selección	
+            6.2 Herramienta marco rectangular	
+            6.3 Opciones de la herramienta marco rectangular	
+            6.4 Herramienta marco elíptico	
+            6.5 Opciones de marco elíptico	
+            6.6 Herramienta de marco fila única	
+            6.7 Opciones de marco fila única	
+            6.8 Herramienta de marco columna única	
+            6.9 Herramienta lazo	
+            6.10 Herramienta lazo poligonal	
+            6.11 Herramienta lazo magnético	
+            6.12 Uso de la herramienta lazo magnético	
+            6.13 Herramienta varita mágica	
+            6.14 El campo de visión de la varita mágica	
+            6.15 Herramienta selección rápida	
+            6.16 Cuestionario: crear selecciones	
+    
+        7 Gestión con selecciones	
+            7.1 Sumar selecciones	
+            7.2 Restar selecciones	
+            7.3 Intersección de selecciones	
+            7.4 Desplazar la selección	
+            7.5 Trasladar la selección a otra imagen	
+            7.6 Hacer flotar la selección	
+            7.7 Modificar una selección flotante	
+            7.8 Cómo transformar una selección flotante	
+            7.9 Aplicar una transformación libre	
+            7.10 Deformación de posición libre	
+            7.11 Cómo guardar y cargar la selección	
+            7.12 Práctica - hacer selecciones	
+            7.13 Cuestionario: gestión con selecciones	
+    
+        8 Manipular selecciones	
+            8.1 Invertir una seleccion	
+            8.2 Seleccionar gama de colores	
+            8.3 El comando modificar	
+            8.4 Otra manera de seleccionar colores en una imagen	
+            8.5 Utilizando extender y similar	
+            8.6 Transformar selección	
+            8.7 Práctica - crear un bisel	
+            8.8 Práctica - efecto de transparencia	
+            8.9 Cuestionario: manipular selecciones	
+    
+        9 Las capas en photoshop	
+            9.1 Qué son las capas y cómo funcionan	
+            9.2 Crear una capa nueva	
+            9.3 El comando capa vía	
+            9.4 Agrupar capas en grupos de capas	
+            9.5 Enlazar capas	
+            9.6 Duplicar capas en el mismo archivo	
+            9.7 Utilizar una capa en otro archivo	
+            9.8 Crear una capa mediante copiar y pegar	
+            9.9 Crear una capa con mover	
+            9.10 Seleccionar el contenido de una capa	
+            9.11 Seleccionar muestras de todas las capas	
+            9.12 Desplazar el contenido de capas utilizando mover	
+            9.13 Alinear contenidos de las capas	
+            9.14 Distribuir capas	
+            9.15 Alternar el orden	
+            9.16 Quitar halos	
+            9.17 Cómo eliminar una capa o parte de su contenido	
+            9.18 Transformar las capas	
+            9.19 Regular la opacidad	
+            9.20 Crear máscaras de recorte	
+            9.21 Objetos inteligentes	
+            9.22 Práctica - trabajos con capas	
+            9.23 Práctica - composición de una imagen	
+            9.24 Cuestionario: las capas en photoshop	
+    
+        10 Los modos de fusión	
+            10.1 Modos de fusión	
+            10.2 Opciones de fusión	
+            10.3 Combinar hacia abajo	
+            10.4 Acoplar imagen	
+            10.5 Fusionar capas automáticamente	
+            10.6 Práctica - trabajar con opciones de fusión	
+            10.7 Cuestionario: los modos de fusión	
+    
+        11 Deshacer acciones y rectificar	
+            11.1 El panel historia	
+            11.2 La herramienta borrador	
+            11.3 Herramienta borrador de fondos	
+            11.4 Herramienta borrador mágico	
+            11.5 El comando volver, el último recurso	
+            11.6 Práctica - corrección de las capas	
+            11.7 Práctica - herramienta borrador de fondos	
+            11.8 Cuestionario: deshacer acciones y rectificar	
+    
+        12 El color en photoshop	
+            12.1 Modos de color en photoshop	
+            12.2 Cambiar de un modo a otro	
+            12.3 Cambiar la imagen a modo color indexado	
+            12.4 Cambiar la imagen a modo mapa de bits	
+            12.5 Previsualizar colores cmyk y distinguir colores	
+            12.6 La paleta info	
+            12.7 Herramienta muestra de color	
+            12.8 Color frontal y color de fondo	
+            12.9 La herramienta cuentagotas	
+            12.10 El selector de color	
+            12.11 Corrección de la paleta de colores	
+            12.12 La paleta color	
+            12.13 La paleta muestras	
+            12.14 Ajustes preestablecidos de muestras	
+            12.15 Práctica - trabajar con el modo mapa de bits	
+            12.16 Cuestionario: el color en photoshop	
+    
+        13 Herramientas de pintura	
+            13.1 La paleta de pinceles	
+            13.2 El pincel	
+            13.3 La concentración	
+            13.4 El lápiz	
+            13.5 Sustitución de color	
+            13.6 Herramienta pincel mezclador	
+            13.7 Dibujar formas	
+            13.8 Opciones de formas	
+            13.9 Rellenar con el bote de pintura	
+            13.10 La herramienta degradado	
+            13.11 El pincel de historia	
+            13.12 El pincel histórico	
+            13.13 El comando rellenar	
+            13.14 El comando contornear	
+            13.15 Practica - colorear un dibujo	
+            13.16 Practica - efecto de texto degradado	
+            13.17 Cuestionario: herramientas de pintura	
+    
+        14 Herramientas de texto	
+            14.1 Funcionamiento de la herramienta texto	
+            14.2 Los caracteres	
+            14.3 Formato de párrafo	
+            14.4 Máscara de texto	
+            14.5 Convertir texto en forma	
+            14.6 Convertir texto en trazado	
+            14.7 Rasterizar texto	
+            14.8 Práctica - agrupar con anterior	
+            14.9 Cuestionario: herramientas de texto	
+        
+        15 Herramientas de modificación	
+            15.1 La herramienta tampón	
+            15.2 El tampón de motivo	
+            15.3 Pincel corrector, pincel corrector puntual, parche y otros	
+            15.4 Desenfocar, enfocar y dedo	
+            15.5 Sobreexponer, subexponer y esponja	
+            15.6 Práctica - retoque fotográfico	
+            15.7 Cuestionario: herramientas de modificación	
+        
+        16 Las medidas en el documento	
+            16.1 Cuadrícula	
+            16.2 Reglas y guías	
+            16.3 Guías inteligentes	
+            16.4 La herramienta regla	
+            16.5 Herramientas sector y seleccionar sector	
+            16.6 Práctica - creación de un botón biselado	
+            16.7 Cuestionario: las medidas en el documento	
+        
+        17 Ajustes en imagen	
+            17.1 Histograma	
+            17.2 Equilibrio de color	
+            17.3 Brillo contraste	
+            17.4 Blanco y negro	
+            17.5 Tono saturación	
+            17.6 Desaturar	
+            17.7 Igualar color	
+            17.8 Reemplazar color	
+            17.9 Corrección selectiva	
+            17.10 Mapa de degradado	
+            17.11 Filtro de fotografía	
+            17.12 Sombras iluminaciones	
+            17.13 Tonos hdr	
+            17.14 Exposición	
+            17.15 Invertir	
+            17.16 Ecualizar	
+            17.17 Umbral	
+            17.18 Posterizar	
+            17.19 Variaciones	
+            17.20 Capa de relleno o ajuste	
+            17.21 Practica - positivado digital de un negativo	
+            17.22 Practica - ajustes en una imagen	
+            17.23 Cuestionario: ajustes en imagen	
+        
+        18 Canales	
+            18.1 Qué son los canales	
+            18.2 Ajustar los niveles	
+            18.3 El comando curvas	
+            18.4 Utilizar el mezclador de canales	
+            18.5 Práctica - ajustar los niveles de una fotografía	
+            18.6 Cuestionario: canales	
+        
+        19 Las máscaras	
+            19.1 Qué es una máscara	
+            19.2 Los canales alfa	
+            19.3 Combinar canales alfa	
+            19.4 Modificar un canal alfa	
+            19.5 Opciones para el canal alfa	
+            19.6 Cómo crear un canal alfa a partir de una selección	
+            19.7 Máscara rápida	
+            19.8 Máscara de capa	
+            19.9 Practica - aplicar una máscara de capa a una imagen	
+            19.10 Cuestionario: las máscaras	
+        
+        20 Gestiones con canales	
+            20.1 Aplicar una imagen	
+            20.2 El comando calcular	
+            20.3 Canales de tinta plana	
+            20.4 Modo multicanal	
+            20.5 Practica - efecto transparencia	
+            20.6 Cuestionario: gestiones con canales	
+        
+        21 Funcionamiento del trazado en photoshop	
+            21.1 Los trazados y sus características	
+            21.2 Elementos de un trazado	
+            21.3 Crear subtrazados	
+            21.4 Opciones de la pluma y pluma de forma libre	
+            21.5 Modificar subtrazados	
+            21.6 Gestiones con trazados	
+            21.7 Practica - contornear trazado	
+            21.8 Cuestionario: funcionamiento del trazado en photoshop	
+        
+        22 Opciones de fusión y filtros	
+            22.1 Efectos de capas	
+            22.2 Cómo aplicar y utilizar los efectos	
+            22.3 Los filtros	
+            22.4 Generalidades	
+            22.5 Galería de filtros	
+            22.6 Efectos de desenfoques especiales	
+            22.7 Gestión de filtros	
+            22.8 Licuar	
+            22.9 Otros filtros	
+            22.10 Filtro punto de fuga	
+            22.11 Corrección de la lente	
+            22.12 Convertir para filtros inteligentes	
+            22.13 Práctica - aplicación de filtros sobre un texto	
+            22.14 Cuestionario: opciones de fusión y filtros	
+        
+        23 Acciones	
+            23.1 Nociones generales	
+            23.2 Funcionamiento de la paleta acciones	
+            23.3 Cómo crear una acción	
+            23.4 Práctica - crear un grupo de acciones	
+            23.5 Cuestionario: acciones	
+        
+        24 Formatos gráficos y guardar para web	
+            24.1 Qué son los formatos	
+            24.2 Formatos de uso más frecuente	
+            24.3 Información extra	
+            24.4 Imágenes gif	
+            24.5 El comando guardar para web y dispositivos	
+            24.6 Práctica - composición de un collage	
+            24.7 Cuestionario: formatos gráficos y guardar para web	
+        
+        25 Explorador de archivos y automatizar	
+            25.1 Adobe bridge	
+            25.2 Etiquetar y clasificar archivos	
+            25.3 Buscar imágenes	
+            25.4 Eliminar imágenes	
+            25.5 Metadatos	
+            25.6 Palabras clave	
+            25.7 Automatizar	
+            25.8 Lote	
+            25.9 Recortar y enderezar fotografías	
+            25.10 Photomerge	
+            25.11 Mini bridge	
+            25.12 Práctica - unir fotografías para paisaje panorámico	
+            25.13 Cuestionario: explorador de archivos y automatizar	
+        
+        26 Crear animaciones para la web	
+            26.1 Crear animaciones para la web	
+            26.2 Opciones de la paleta animación	
+            26.3 Guardar una animación	
+            26.4 Práctica - crear una animación	
+            26.5 Práctica - crear una animación con la línea de tiempo	
+            26.6 Cuestionario: crear animaciones para la web	
+        
+        27 Herramientas 3d	
+            27.1 Fundamentos 3d	
+            27.2 Panel 3d	
+            27.3 Herramientas de movimiento, rotación o cambio de escala 3d	
+            27.4 El panel propiedades	
+            27.5 Pintura y edición de texturas 3d	
+            27.6 Guardado de un archivo 3d	
+            27.7 Práctica - crear modelo 3d desde una capa de texto	
+            27.8 Cuestionario: herramientas 3d	
+            27.9 Cuestionario: cuestionario final
+    D.
+    
+        1 Bienvenidos a indesign	
+            1.1 Qué es indesign	
+            1.2 Entrar en indesign	
+            1.3 Pantalla de bienvenida	
+            1.4 Entorno de trabajo	
+            1.5 Salir de indesign	
+            1.6 Práctica - bienvenido a indesign	
+            1.7 Cuestionario: bienvenidos a indesign	
+    
+        2 Gestión de documentos	
+            2.1 El formato indd de indesign	
+            2.2 Abrir un documento	
+            2.3 Crear un documento nuevo	
+            2.4 Guardar documento	
+            2.5 Visualización de un documento	
+            2.6 Desplazarse por un documento	
+            2.7 Práctica - abrir guardar y cerrar un documento	
+            2.8 Cuestionario: gestión de documentos	
+    
+        3 Cuadro de herramientas	
+            3.1 Cuadro de herramientas	
+            3.2 Herramienta selección	
+            3.3 Herramienta página	
+            3.4 Herramienta hueco	
+            3.5 Herramienta texto	
+            3.6 Herramienta texto en trazado	
+            3.7 Marcos gráficos	
+            3.8 Práctica - insertar un marco de texto y de imagen en un documento	
+            3.9 Cuestionario: cuadro de herramientas	
+    
+        4 Paleta de control	
+            4.1 Paleta de control	
+            4.2 Paleta de control aplicada al cuadro de texto	
+            4.3 Paleta de control aplicada al contenido del cuadro de texto	
+            4.4 Paleta de control aplicada a cuadros de imagen	
+            4.5 Paleta de control aplicada a la imagen	
+            4.6 Alinear con objeto clave	
+            4.7 Práctica - trabajo con la paleta de control	
+            4.8 Cuestionario: paleta de control	
+    
+        5 Herramientas de líneas	
+            5.1 Herramienta pluma	
+            5.2 Añadir y restar puntos de anclaje	
+            5.3 Herramienta lápiz	
+            5.4 Herramienta línea	
+            5.5 Herramienta selección directa	
+            5.6 Práctica - dibujar combinaciones de segmentos curvos y rectos	
+            5.7 Cuestionario: herramientas de líneas	
+    
+        6 Otras herramientas	
+            6.1 Herramienta rotar	
+            6.2 Herramienta escala	
+            6.3 Herramienta distorsión	
+            6.4 Herramienta transformación libre	
+            6.5 Herramienta cuentagotas	
+            6.6 Herramienta tijeras	
+            6.7 Creación de degradados	
+            6.8 Práctica - composición de imágenes	
+            6.9 Cuestionario: otras herramientas	
+    
+        7 Trabajar con texto y gráficos	
+            7.1 Colocar texto	
+            7.2 Colocar texto automáticamente	
+            7.3 Cuadro de diálogo opciones de marco de texto	
+            7.4 Ceñir texto alrededor de un marco	
+            7.5 Pies de ilustración	
+            7.6 Aplicar contorno a los marcos	
+            7.7 Duplicar marcos y sustituir el contenido	
+            7.8 Objetos anclados	
+            7.9 Práctica - marcos de texto	
+            7.10 Cuestionario: trabajar con texto y gráficos	
+    
+        8 Atributos de caracteres	
+            8.1 Paleta carácter	
+            8.2 Fuente, estilo y tamaño	
+            8.3 Opciones de la paleta carácter	
+            8.4 Kern o kerning	
+            8.5 Track o tracking	
+            8.6 Escala	
+            8.7 Reemplazar texto	
+            8.8 Cuestionario: atributos de caracteres	
+    
+        9 Atributos de párrafo	
+            9.1 Paleta párrafo	
+            9.2 Alineación	
+            9.3 Sangría	
+            9.4 Espacio entre párrafos	
+            9.5 Letras capitulares	
+            9.6 Tabulaciones	
+            9.7 Filetes	
+            9.8 Opciones de separación	
+            9.9 Separación con guiones	
+            9.10 Controles de justificación	
+            9.11 Práctica - atributos de párrafo	
+            9.12 Cuestionario: atributos de párrafos	
+    
+        10 Trabajar con estilos	
+            10.1 Paleta estilos	
+            10.2 Crear un estilo	
+            10.3 Modificar un estilo de párrafo	
+            10.4 Aplicar un estilo	
+            10.5 Basar un estilo en otro	
+            10.6 Cargar estilos de otro documento	
+            10.7 Eliminar estilos	
+            10.8 Práctica - composición de una página de revista y uso de estilos	
+            10.9 Cuestionario: trabajar con estilos	
+    
+        11 Páginas maestras	
+            11.1 Páginas maestras	
+            11.2 Agregar guías a la página maestra	
+            11.3 Cambiar la numeración de páginas por secciones	
+            11.4 Eliminar elementos de páginas maestras en páginas del documento	
+            11.5 Plantillas	
+            11.6 Creación de encabezados y pies de página en una página maestra	
+            11.7 Aplicar páginas maestras	
+            11.8 Práctica - trabajo con páginas maestras	
+            11.9 Cuestionario: páginas maestras	
+    
+        12 Guías y retículas	
+            12.1 Guías inteligentes	
+            12.2 La retícula	
+            12.3 Trazado de guías	
+            12.4 Trazado de guías manual	
+            12.5 Trazado de guías en páginas opuestas	
+            12.6 Uso de cuadrículas	
+            12.7 Utilizar una cuadrícula base para alinear texto	
+            12.8 Duplicación de objetos en una cuadrícula	
+            12.9 Práctica - trazado de una retícula	
+            12.10 Cuestionario: guías y retículas	
+    
+        13 Las capas en indesign	
+            13.1 Qué son las capas y cómo funcionan	
+            13.2 Crear una capa nueva	
+            13.3 Cuadro de diálogo nueva capa	
+            13.4 Bloquear objetos	
+            13.5 Ocultar capas	
+            13.6 Recordar capas al pegar	
+            13.7 Trabajar con las capas	
+            13.8 Práctica - las capas	
+            13.9 Cuestionario: las capas en indesign	
+    
+        14 El color	
+            14.1 Modo de color rgb	
+            14.2 Modo de color cmyk	
+            14.3 Modo de color lab	
+            14.4 Escala de grises	
+            14.5 Tintas planas y colores de procesos	
+            14.6 Crear mezclas de colores	
+            14.7 Aplicar un color o degradado	
+            14.8 Obtención de un color desde otro archivo	
+            14.9 Las transparencias	
+            14.10 Reventado	
+            14.11 Práctica - creación y aplicación de color	
+            14.12 Cuestionario: el color	
+    
+        15 Tablas	
+            15.1 Tablas	
+            15.2 Insertar una tabla	
+            15.3 Insertar filas y columnas a una tabla	
+            15.4 Seleccionar celdas filas y columnas	
+            15.5 Dividir y combinar celdas	
+            15.6 Añadir texto a una tabla	
+            15.7 Añadir gráficos a una tabla	
+            15.8 Importar tablas desde otra aplicación	
+            15.9 Dar formato a una tabla	
+            15.10 Estilos de tabla y celda	
+            15.11 Práctica - trabajar con tablas	
+            15.12 Cuestionario: las tablas	
+    
+        16 Trabajar con libros	
+            16.1 Crear un libro nuevo	
+            16.2 Abrir guardar y cerrar un libro	
+            16.3 Añadir documentos a un libro	
+            16.4 Eliminar documentos de un libro	
+            16.5 Sustituir documentos	
+            16.6 Ordenar ficheros	
+            16.7 Numerar las páginas de un libro	
+            16.8 Documento de origen de estilo	
+            16.9 Sincronizar documentos	
+            16.10 Práctica - trabajar con libros	
+            16.11 Cuestionario: trabajar con libros	
+    
+        17 Tabla de contenidos e índice	
+            17.1 Tabla de contenido	
+            17.2 Crear una tabla de contenido	
+            17.3 Actualizar tabla de contenido	
+            17.4 índice	
+            17.5 La paleta índice	
+            17.6 Añadir entradas de índice	
+            17.7 Crear intervalos de páginas en un índice	
+            17.8 Referencias cruzadas	
+            17.9 Generar el índice	
+            17.10 Práctica - crear una tabla de contenido	
+            17.11 Cuestionario: tabla de contenido e índice	
+    
+        18 Exportar y recopilar para imprimir	
+            18.1 Opciones generales de impresión	
+            18.2 Antes de imprimir	
+            18.3 Empaquetar	
+            18.4 Crear archivos de impresión	
+            18.5 Archivos pdf	
+            18.6 Pdf para la red o la web	
+            18.7 Creación de estilo pdf para alta calidad	
+            18.8 Exportación y prueba de archivos pdf en escala de grises	
+            18.9 Práctica - empaquetar y exportar	
+            18.10 Cuestionario: exportar y recopilar para imprimir	
+    
+        19 Documentos interactivos	
+            19.1 Creación de botones	
+            19.2 Transiciones de página	
+            19.3 Animación	
+            19.4 Hipervínculos	
+            19.5 Referencias cruzadas	
+            19.6 Marcadores	
+            19.7 Creación de documentos interactivos para pdf	
+            19.8 Creación de archivos swf interactivos para la web	
+            19.9 Práctica - crear un documento interactivo para pdf	
+            19.10 Cuestionario: documentos interactivos	
+    
+        20 Contenido vinculado	
+            20.1 Texto vinculado	
+            20.2 Vinculación de contenido	
+            20.3 Actualización de un elemento vinculado	
+            20.4 Asignación de estilo personalizado en vínculos	
+            20.5 El conversor de documentos	
+    
+        21 Formulario pdf con indesign	
+            21.1 Formularios	
+            21.2 Cómo agregar campos al pdf	
+            21.3 Casilla de verificación	
+            21.4 Botón de opción	
+            21.5 Cuadro de lista o combinado	
+            21.6 Botones	
+            21.7 Especificación del orden de tabulador	
+            21.8 Exportación a pdf interactivo	
+    
+        22 Diseño flotante	
+            22.1 Marco de texto principal	
+            22.2 Columnas de anchura flexible	
+            22.3 Marco de texto persistente	
+            22.4 Diseño flotante	
+            22.5 Diseño alternativo basado en página flotante	
+            22.6 Práctica - adaptar un diseño vertical a uno horizontal	
+    
+        23 Preimpresión	
+            23.1 Como empezar a maquetar pensando en la impresión	
+            23.2 Dimensiones del diseño vs dimensiones del pdf	
+            23.3 Perfiles de color	
+            23.4 Qué revisar en un diseño gráfico antes de mandarlo a imprenta	
+            23.5 Resumen final	
+            23.6 Cuestionario: cuestionario final
+    E.
+    
+        1 Introducción al lenguaje html5	
+            1.1 Historia e introducción al lenguaje de programación web html5	
+            1.2 Lenguaje de etiquetas	
+            1.3 Estructura y definición de documento html	
+            1.4 Definición del tipo de documento	
+            1.5 Etiqueta doctype	
+            1.6 Cuestionario: introducción al lenguaje html5	
+        
+        2 Encabezado del documento	
+            2.1 Etiqueta html	
+            2.2 Encabezado del documento	
+            2.3 Etiqueta base	
+            2.4 Etiqueta link	
+            2.5 Etiqueta script	
+            2.6 Etiqueta noscript	
+            2.7 Cuestionario: encabezado del documento	
+        
+        3 Cuerpo del documento	
+            3.1 Etiqueta body	
+            3.2 Enlaces internos en el documento	
+            3.3 Enlaces a documentos web externos relativos y absolutos	
+            3.4 Enlaces a correo electrónico, ftp	
+            3.5 Etiqueta b, em y strong	
+            3.6 Etiqueta code, samp y kbd	
+            3.7 Etiqueta var, mark y cite	
+            3.8 Etiqueta i, s, u y small	
+            3.9 Etiqueta sub, sup, br y wbr	
+            3.10 Etiqueta ins, del y abbr	
+            3.11 Etiqueta address, bdo y dfn	
+            3.12 Etiqueta pre, q y blockquote	
+            3.13 Etiqueta bdi, rubi, rt, rp y dialog	
+            3.14 Cuestionario: cuerpo del documento	
+        
+        4 Atributos en html5	
+            4.1 Atributos globales - accesskey, class y contenteditable	
+            4.2 Atributos globales - data, dir y draggable	
+            4.3 Atributos globales - hidden, id y lang	
+            4.4 Atributos globales - spellcheck, style y tabindex	
+            4.5 Atributos globales - title y h1-h6	
+            4.6 Etiqueta img	
+            4.7 Etiqueta table	
+            4.8 Definición de una tabla sencilla	
+            4.9 Definición de una tabla con combinación de columnas	
+            4.10 Definición de una tabla con combinación de filas	
+            4.11 Definición de tabla con columnas y filas combinadas	
+            4.12 Definición de tablas avanzadas	
+            4.13 Cuestionario: atributos en html5	
+        
+        5 Estructuras básicas	
+            5.1 Etiqueta ul	
+            5.2 Etiqueta ol	
+            5.3 Etiqueta dl	
+            5.4 Web semántica - etiqueta div, span y header	
+            5.5 Web semántica - etiqueta nav	
+            5.6 Web semántica - etiqueta section y article	
+            5.7 Web semántica - etiqueta aside y figure	
+            5.8 Web semántica - etiqueta footer, time y details	
+            5.9 Cuestionario: estructuras básicas	
+        
+        6 Audio y video	
+            6.1 Etiqueta audio	
+            6.2 Etiqueta video	
+            6.3 Etiqueta track	
+            6.4 Etiqueta embed	
+            6.5 Etiqueta object	
+            6.6 Cuestionario: audio y video	
+        
+        7 Formularios en html	
+            7.1 Etiqueta form	
+            7.2 Etiqueta input	
+            7.3 Atributos - form, formaction y formenctype	
+            7.4 Atributos - formmethod, formnovalidate y formtarget	
+            7.5 Atributos - height, width y name	
+            7.6 Atributos - readonly, required y placeholder	
+            7.7 Atributos - value, size y maxlength	
+            7.8 Atributos - src, max, min, step y multiple	
+            7.9 Atributos - list y pattern	
+            7.10 Atributos - type	
+            7.11 Tipo checkbox, color y date	
+            7.12 Tipo datetime y datetime-local, email y file	
+            7.13 Tipo hidden, image y month y week	
+            7.14 Tipo number, password, radio y reset	
+            7.15 Tipo range y search	
+            7.16 Tipo text, time y url	
+            7.17 Etiqueta button, fieldset y label	
+            7.18 Etiqueta keygen, meter y progress	
+            7.19 Etiqueta output y select	
+            7.20 Etiqueta textarea	
+            7.21 Cuestionario: formularios en html	
+        
+        8 Marcos contenedores	
+            8.1 Etiqueta iframe	
+            8.2 Cuestionario: marcos contenedores	
+        
+        9 Estilos css y modelos de caja	
+            9.1 Elementos block	
+            9.2 Estilos en línea	
+            9.3 Archivos externos	
+            9.4 Referencias	
+            9.5 Aplicando css a una plantilla	
+            9.6 Cuestionario: estilos css y modelos de caja	
+        
+        10 Cuestionario: cuestionario final	
+    F.
+        
+        1 Qué es adobe illustrator	
+            1.1 Introducción a adobe illustrator	
+            1.2 Imagenes vectoriales y diferencias con otras de imágenes	
+            1.3 Definición de resolución	
+            1.4 Tamaño de archivo	
+            1.5 Requerimientos mínimos del sistema	
+            1.6 Entrar en illustrator	
+            1.7 área de trabajo	
+            1.8 Ventana documento	
+            1.9 Modos de visualización	
+            1.10 Preferencias	
+            1.11 Las reglas	
+            1.12 La cuadrícula	
+            1.13 Las guías	
+            1.14 Panel de herramientas	
+            1.15 Grupo de paneles	
+            1.16 Salir de adobe illustrator	
+            1.17 Práctica introducción a adobe illustrator	
+            1.18 Cuestionario: qué es adobe illustrator	
+        
+        2 Gestión de documentos	
+            2.1 Diferentes formatos	
+            2.2 Formato ai	
+            2.3 Abrir un documento	
+            2.4 Crear un documento nuevo	
+            2.5 Colocar un archivo	
+            2.6 Guardar un archivo	
+            2.7 Guardar como plantilla	
+            2.8 Guardar para web y dispositivos	
+            2.9 Guardar sectores seleccionados	
+            2.10 Guardar para microsoft office	
+            2.11 Exportar	
+            2.12 Práctica crear modificar y guardar un archivo	
+            2.13 Cuestionario: gestión de documentos	
+        
+        3 Panel herramientas y formas básicas de diseño	
+            3.1 El panel de herramientas	
+            3.2 Formas básicas	
+            3.3 Color de relleno y de trazo	
+            3.4 Barra de opciones	
+            3.5 Comandos deshacer y rehacer	
+            3.6 Practica crear formas básicas	
+            3.7 Práctica crear una carta de navidad	
+            3.8 Cuestionario: panel herramientas y formas básicas de diseño	
+        
+        4 Herramientas de selección	
+            4.1 Trazados vectoriales	
+            4.2 Herramienta selección	
+            4.3 Herramienta selección directa	
+            4.4 Herramienta selección de grupos	
+            4.5 Herramienta varita mágica	
+            4.6 Herramienta lazo	
+            4.7 Menú seleccionar	
+            4.8 Modo de aislamiento	
+            4.9 Comandos cortar copiar pegar	
+            4.10 Práctica selección y selección directa	
+            4.11 Cuestionario: herramientas de selección	
+        
+        5 Diseño de líneas	
+            5.1 Herramienta segmento de línea	
+            5.2 Herramienta arco	
+            5.3 Herramienta espiral	
+            5.4 Herramienta cuadrícula rectangular	
+            5.5 Herramienta cuadrícula polar	
+            5.6 Herramientas de dibujo a mano alzada	
+            5.7 Herramienta lapiz	
+            5.8 Herramienta suavizar	
+            5.9 Herramienta borrador de trazados	
+            5.10 Herramienta borrador	
+            5.11 Herramienta tijeras	
+            5.12 Herramienta cuchilla	
+            5.13 Práctica dibujando con la herramienta lapiz	
+            5.14 Cuestionario: diseño de líneas	
+        
+        6 Herramienta pincel	
+            6.1 Pinceles	
+            6.2 Herramienta pincel	
+            6.3 Pínceles caligráficos	
+            6.4 Pinceles de arte	
+            6.5 Pinceles de dispersión	
+            6.6 Pinceles de motivo	
+            6.7 Pincel de cerdas	
+            6.8 Crear y modificar pinceles	
+            6.9 Convertir y eliminar trazos de pincel	
+            6.10 Pincel de manchas	
+            6.11 Práctica creación de pinceles personalizados	
+            6.12 Práctica modificación de pinceles de motivo	
+            6.13 Cuestionario: herramienta pincel	
+        
+        7 Herramienta pluma y panel trazo	
+            7.1 Herramienta pluma	
+            7.2 Dibujar con la pluma	
+            7.3 Convertir puntos de ancla	
+            7.4 Trazar líneas mixtas	
+            7.5 Modificar segmentos y puntos de ancla	
+            7.6 Añadir y eliminar puntos de ancla	
+            7.7 Cerrar un trazado abierto	
+            7.8 Panel trazo	
+            7.9 Práctica redibujar y colorear imágenes con la pluma	
+            7.10 Práctica redibujar imágenes con la pluma	
+            7.11 Cuestionario: herramienta pluma y panel trazo	
+        
+        8 El color en illustrator	
+            8.1 Modos de color	
+            8.2 Cambiar de un modo a otro	
+            8.3 Seleccionar colores	
+            8.4 Panel color	
+            8.5 Panel muestras	
+            8.6 Panel degradado	
+            8.7 Herramienta degradado	
+            8.8 Herramienta pintura interactiva	
+            8.9 Herramienta cuentagotas	
+            8.10 Práctica color degradado	
+            8.11 Práctica pintura interactiva	
+            8.12 Cuestionario: el color en illustrator	
+        
+        9 Transformar y organizar objetos	
+            9.1 Transformación de objetos	
+            9.2 Herramienta transformación libre	
+            9.3 Herramientas de transformación	
+            9.4 Opciones de las herramientas de transformación	
+            9.5 Panel transformar	
+            9.6 Organizar objetos	
+            9.7 Agrupar bloquear ocultar objetos	
+            9.8 Expandir objeto	
+            9.9 Alinear y distribuir objetos	
+            9.10 Práctica herramientas de transformación	
+            9.11 Cuestionario: transformar y organizar objetos	
+        
+        10 Distorsión y envolventes	
+            10.1 Distorsión con transformación libre	
+            10.2 Distorsión con herramientas de efectos líquidos	
+            10.3 Herramienta anchura	
+            10.4 Envolventes	
+            10.5 Calco de imagen	
+            10.6 Cuadrícula de perspectiva	
+            10.7 Dibujar en cuadrícula de perspectiva	
+            10.8 Colocar objetos en cuadrícula de perspectiva	
+            10.9 Práctica calco de imagen	
+            10.10 Práctica cuadrícula de perspectiva	
+            10.11 Cuestionario: distorsión y envolventes	
+        
+        11 Combinar objetos	
+            11.1 Herramienta fusión	
+            11.2 Efectos de buscatrazos	
+            11.3 Formas compuestas	
+            11.4 Trazados compuestos	
+            11.5 Creador de formas	
+            11.6 Práctica la herramienta fusión	
+            11.7 Cuestionario: combinar objetos	
+        
+        12 El texto en illustrator	
+            12.1 Herramientas de texto	
+            12.2 Modificar el tamano de un área de texto	
+            12.3 Opciones texto de área y texto en trazado	
+            12.4 Enlace de áreas de texto	
+            12.5 El panel caracter	
+            12.6 El panel párrafo	
+            12.7 Tabulaciones y pictograma	
+            12.8 El panel pictogramas	
+            12.9 Ceñir texto a un objeto	
+            12.10 Importación de texto	
+            12.11 Práctica la herramienta texto	
+            12.12 Cuestionario: el texto en illustrator	
+        
+        13 Transformar texto ortografía y estilos de texto	
+            13.1 Convertir texto en contornos	
+            13.2 Rotar texto	
+            13.3 Reflejar y voltear el texto en el trazado	
+            13.4 Texto con envolventes	
+            13.5 Revisión ortográfica	
+            13.6 Buscar y reemplazar texto	
+            13.7 Fuentes y estilos de fuentes	
+            13.8 Fuentes no instaladas en el sistema	
+            13.9 Fuentes opentype	
+            13.10 Práctica estilos de párrafo y caracter	
+            13.11 Cuestionario: transformar texto, ortografía y estilos de texto	
+        
+        14 Capas y transparencias	
+            14.1 Panel capas	
+            14.2 Mover un objeto a una capa diferente	
+            14.3 Transparencias	
+            14.4 Panel transparencia	
+            14.5 Máscaras	
+            14.6 Práctica crear un reflejo	
+            14.7 Cuestionario: capas y transparencias	
+        
+        15 Efectos de illustrator	
+            15.1 Efectos	
+            15.2 Efectos 3d	
+            15.3 Buscatrazos	
+            15.4 Convertir en forma	
+            15.5 Deformar	
+            15.6 Distorsionar y transformar	
+            15.7 Estilizar	
+            15.8 Filtros svg	
+            15.9 Marcas de recorte	
+            15.10 Rasterizar	
+            15.11 Trazado	
+            15.12 Práctica crear una copa 3d	
+            15.13 Cuestionario: efectos de illustrator	
+        
+        16 Efectos photoshop	
+            16.1 Efectos photoshop	
+            16.2 Filtros artísticos	
+            16.3 Bosquejar	
+            16.4 Desenfocar	
+            16.5 Distorsionar	
+            16.6 Enfocar	
+            16.7 Estilizar	
+            16.8 Pixelizar	
+            16.9 Textura	
+            16.10 Trazos de pincel	
+            16.11 Video	
+            16.12 Práctica efecto bokeh	
+            16.13 Cuestionario: efectos de photoshop	
+        
+        17 Panel símbolos, estilos gráficos y motivos	
+            17.1 Panel símbolos	
+            17.2 Estilos gráficos	
+            17.3 Motivos	
+            17.4 Práctica crear bolas de billar	
+            17.5 Cuestionario: panel símbolos y estilos gráficos	
+        
+        18 Exportación y archivos pdf	
+            18.1 Exportar ilustraciones	
+            18.2 Exportar en formato dwg o dxf	
+            18.3 Exportar en formato swf	
+            18.4 Exportar en formato psd	
+            18.5 Exportar en formato jpeg	
+            18.6 Archivos con formato pdf	
+            18.7 Guardar para microsoft office	
+            18.8 Cuestionario: exportación y archivos pdf	
+        
+        19 Gráficas y gráficas de datos	
+            19.1 Gráficas	
+            19.2 Modificar una gráfica	
+            19.3 Crear gráficas con efecto 3d	
+            19.4 Gráficas de datos	
+            19.5 El panel variables	
+            19.6 Práctica gráfica de columnas en 3d	
+            19.7 Cuestionario: gráficas y gráficas de datos	
+        
+        20 Mesas de trabajo y acciones	
+            20.1 Mesas de trabajo	
+            20.2 Panel mesas de trabajo	
+            20.3 Acciones en illustrator	
+            20.4 Cuestionario: mesas de trabajo y acciones	
+        
+        21 Gráficos web	
+            21.1 Gráficos para web	
+            21.2 Contenido para dispositivos móviles	
+            21.3 Sectores	
+            21.4 Guardar para web	
+            21.5 Animaciones con illustrator	
+            21.6 Práctica crear una animación swf	
+            21.7 Práctica crear una web mediante sectores	
+            21.8 Cuestionario: gráficos web	
+            21.9 Cuestionario: cuestionario final	
+    G.
+    
+        1 Introducción a internet	
+            1.1 Introducción	
+            1.2 Un poco de historia	
+            1.3 Qué es un buscador y su funcionamiento	
+            1.4 Modos de búsqueda en internet	
+            1.5 Práctica - diferencia entre un buscador y un directorio	
+            1.6 Cuestionario: introducción a internet	
+        
+        2 Cómo funciona el posicionamiento	
+            2.1 Qué es el seo y cómo funciona	
+            2.2 Cómo rastrea internet	
+            2.3 Cómo hacer para que se indexen mis páginas	
+            2.4 Cómo lee un buscador un sitio web	
+            2.5 Organización de un serp	
+            2.6 Elementos para fomentar la entrada de un robot en nuestra web	
+            2.7 Puedo evitar ser rastreado	
+            2.8 Práctica - diferencia existe entre los resultados orgánicos y de pago	
+            2.9 Cuestionario: cómo funciona el posicionamiento	
+        
+        3 Importancia del dominio y elección de palabras claves	
+            3.1 El dominio	
+            3.2 Cómo crear palabras claves	
+            3.3 El concepto de popularidad	
+            3.4 Elección de los términos clave o keywords	
+            3.5 Elección del hosting y el efecto sobre el posicionamiento	
+            3.6 Práctica - comprobar la antigüedad de un dominio	
+            3.7 Cuestionario: la importancia del dominio y la elección de palabras clave	
+        
+        4 Factores internos	
+            4.1 Dominio	
+            4.2 Programación	
+            4.3 La cabecera de la página web	
+            4.4 Los enlaces	
+            4.5 Cabeceras, negritas, cursivas, listados	
+            4.6 Las imágenes	
+            4.7 Flash	
+            4.8 Los contenidos	
+            4.9 Estructura del sitio	
+            4.10 Mapa del sitio	
+            4.11 Dirección url	
+            4.12 Robots txt	
+            4.13 Página no encontrada	
+            4.14 Hosting - alojamiento web	
+            4.15 Seo on-page	
+            4.16 Cuestionario: factores internos (on-page)	
+        
+        5 Herramientas de optimización y evaluación	
+            5.1 Primer paso	
+            5.2 Herramientas de analítica web	
+            5.3 Práctica - análisis de una web	
+            5.4 Cuestionario: herramientas de optimización y evaluación	
+        
+        6 Herramientas	
+            6.1 Los buscadores	
+            6.2 Palabras clave	
+            6.3 Ranking en internet	
+            6.4 Seguimiento del usuario	
+            6.5 Notas de prensa	
+            6.6 Cuestionario: herramientas	
+        
+        7 Optimiza el diseño y la programación de su web	
+            7.1 Rastreo de un sitio web	
+            7.2 Elementos on-page	
+            7.3 Robots, nofollows y otros	
+            7.4 Mapa del sitio	
+            7.5 Url amigable	
+            7.6 Linking interno	
+            7.7 Programación en css	
+            7.8 Práctica - análisis de una web segun criterios de seo	
+            7.9 Cuestionario: optimizar el diseño y programación de nuestra web	
+        
+        8 Factores externos	
+            8.1 Introducción	
+            8.2 La fuerza de la ip	
+            8.3 Conseguir enlaces de sitios con autoridad	
+            8.4 Directorios	
+            8.5 Intercambio de enlaces	
+            8.6 No follow	
+            8.7 La competencia	
+            8.8 Envíos automaticos	
+            8.9 Cuestionario: factores externos	
+        
+        9 Los contenidos de su web	
+            9.1 Contenidos	
+            9.2 Elementos externos - link building	
+            9.3 Elementos no reconocidos en el contenido	
+            9.4 Lo que no hay que hacer	
+            9.5 El efecto sandbox	
+            9.6 Optimización para varios buscadores	
+            9.7 Práctica - posicionamiento de un texto en la web	
+            9.8 Cuestionario: el contenido de nuestra web	
+        
+        10 Técnicas penalizables	
+            10.1 Cloaking	
+            10.2 Texto oculto	
+            10.3 Granja de enlaces	
+            10.4 Páginas puerta	
+            10.5 Contenido duplicado	
+            10.6 Redireccionamientos ocultos	
+            10.7 Sobrecarga de keywords	
+            10.8 Pasos para no ser penalizado por black hat seo	
+            10.9 Cuestionario: técnicas penalizables	
+        
+        11 Salir de una penalización	
+            11.1 Introducción	
+            11.2 Salir de una penalización	
+            11.3 Prevenir una penalización	
+            11.4 Cuestionario: salir de una penalización	
+        
+        12 Sem o marketing en buscadores	
+            12.1 Sem	
+            12.2 Qué diferencia hay entre seo y sem	
+            12.3 Adwords	
+            12.4 Publicidad contextual - adsense	
+            12.5 Cómo elegir la palabra clave	
+            12.6 Cómo averiguar que términos de búsqueda utiliza el público	
+            12.7 Google adwords	
+            12.8 Organizar una campaña	
+            12.9 Práctica - campaña de adwords	
+            12.10 Cuestionario: sem o marketing en buscadores	
+        
+        13 Los pequeños detalles	
+            13.1 Densidad de palabras	
+            13.2 Alta en motores de búsqueda	
+            13.3 Sitemaps	
+            13.4 Aumentar la velocidad de indexación	
+            13.5 Enlaces y pagerank	
+            13.6 Tiempo de permanencia	
+            13.7 Cuando saldre posicionado	
+            13.8 Cuestionario: pequeños detalles	
+        
+        14 Web 20	
+            14.1 Características principales de la web 2.0	
+            14.2 Los blogs	
+            14.3 Microblogs	
+            14.4 Práctica - creacion de un blog	
+            14.5 Práctica - facebook - twitter	
+            14.6 Cuestionario: la web 2.0	
+        
+        15 Seo para blogs	
+            15.1 Dominio y alojamiento	
+            15.2 Los contenidos	
+            15.3 Categorías o etiquetas	
+            15.4 Enlaces	
+            15.5 Socialización	
+            15.6 Cuestionario: seo para blogs	
+        
+        16 Seo para wordpress	
+            16.1 El hosting o alojamiento web	
+            16.2 La plantilla o theme de wordpress	
+            16.3 Los plugins	
+            16.4 Actualizado wordpress	
+            16.5 Revisar ajustes generales	
+            16.6 Ajustes de los enlaces permanentes	
+            16.7 No abusar de las categorías y etiquetas	
+            16.8 Instalar el plugin google analytics para wordpress por monsterinsights	
+            16.9 No subir imágenes pesadas	
+            16.10 Yoast seo	
+        
+        17 Geoseo - seo local	
+            17.1 Beneficios del seo local	
+            17.2 Cómo optimizar mi página web	
+            17.3 Densidad de la palabra clave	
+            17.4 Geoseo	
+            17.5 Cuestionario: geoseo - seo local	
+        
+        18 Serm - search engine reputation management	
+            18.1 Gestión de la reputación del motor de búsqueda (serm)	
+            18.2 Detección	
+            18.3 Qué hacer una vez detectados los resultados negativos	
+        
+        19 Smo - social media optimization	
+            19.1 Qué es el smo o social media optimization	
+            19.2 Algunos detalles	
+            19.3 Marcadores sociales	
+            19.4 Ajax	
+            19.5 Cuestionario: smo - social media optimization	
+        
+        20 Seo para videos	
+            20.1 Tipos de buscadores	
+            20.2 Metadatos	
+            20.3 Promoción	
+        
+        21 Seo para móvil	
+            21.1 Introducción	
+            21.2 Búsquedas por voz	
+            21.3 Cuestionario: seo para móvil	
+        
+        22 Seo para ppc - pago por clic	
+            22.1 Seo para ppc	
+        
+        23 Seo para pdf - portable document format	
+            23.1 Seo para pdf	
+        
+        24 Resumiendo claves de seo	
+            24.1 Experiencia del usuario	
+            24.2 Contenidos	
+            24.3 Indexación	
+            24.4 Potencia para nuestro sitio web	
+            24.5 Captación de tráfico para nuestra web	
+            24.6 Cuestionario: resumiendo clave de seo	
+            24.7 Cuestionario: cuestionario final	

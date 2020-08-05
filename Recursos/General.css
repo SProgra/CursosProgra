@@ -1,6 +1,2 @@
-input.invalid:checked + label {
-    color: red;
-  }
-input.valid:checked + label{
-color:green;
-}
+input:checked + label {
+    color: red; }

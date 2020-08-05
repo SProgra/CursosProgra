@@ -1,2 +1,4 @@
-input:checked + label {
-    color: red; }
+input[type="radio"].invalid:checked + label {
+    text-decoration-color: red; }
+input[type="radio"].valid:checked + label {
+    text-decoration-color: green; }

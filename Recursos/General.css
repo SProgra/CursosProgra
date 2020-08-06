@@ -2,3 +2,7 @@ input.invalid:checked + label {
     color: red; }
 input.valid:checked + label {
     color: green; }
+
+html{
+    text-align: justify;
+}
